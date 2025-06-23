@@ -4,7 +4,6 @@ VR4ALL introduces the use of Immersive Virtual Reality (IVR) technology in the e
 
 ### 📦 VR4ALL Unity Asset
 
-Download the Unity asset here:  
 [🔗 VR4ALL Unity Asset Download](https://aegeangr-my.sharepoint.com/:f:/g/personal/v_kasapakis_aegean_gr/EknhQh9UrqBDsnM2UFAoJVoBjm2Bnpc9jIy72s2H3sEMfw?e=6Q2bSN)
 
 [🎥 Watch the VR4ALL Documentation Video](https://youtu.be/bX7ua0AJof0)
