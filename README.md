@@ -33,7 +33,7 @@ As part of the VR4ALL initiative, an IVR experience has been developed using a s
 
 🧠 Simulated Conditions Include:
 
-    🧯 Parkinson’s Disease: Tremors and slowed movements
+    🖐️ Parkinson’s Disease: Tremors and slowed movements
 
     ♿ Wheelchair Use: Restricted mobility simulation
 
