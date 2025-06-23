@@ -2,6 +2,13 @@ VR4ALL: Inclusive Design Through Immersive Virtual Reality
 
 VR4ALL introduces the use of Immersive Virtual Reality (IVR) technology in the early stages of inclusive product design to foster empathy and understanding among design professionals and students.
 
+### 📦 VR4ALL Unity Asset
+
+Download the Unity asset here:  
+[🔗 VR4ALL Unity Asset Download](https://aegeangr-my.sharepoint.com/:f:/g/personal/v_kasapakis_aegean_gr/EknhQh9UrqBDsnM2UFAoJVoBjm2Bnpc9jIy72s2H3sEMfw?e=6Q2bSN)
+
+[🎥 Watch the VR4ALL Documentation Video](https://youtu.be/bX7ua0AJof0)
+
 By simulating the experiences of individuals with visual and motor impairments, IVR helps users gain deeper insights into the challenges faced by this population group. This innovative approach equips higher education teachers with cutting-edge tools and materials to enhance their teaching methods, while also encouraging the development of more accessible and user-friendly products and environments.
 
 🎯 Goals
