@@ -50,9 +50,9 @@ This powerful tool:
 
     Empowers higher education teachers with innovative teaching material
 
-**Credits:** Parts of this asset were developed using [CVD Filter (URP)](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/cvd-filter-urp-193819) and [Unity Wheelchair Controller](https://ocias.com/blog/unity-wheelchair-controller/) assets.
-
-
     Encourages design of truly inclusive products and environments
 
     Raises public awareness of the everyday challenges faced by people with disabilities
+
+    
+**Credits:** Parts of this asset were developed using [CVD Filter (URP)](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/cvd-filter-urp-193819) and [Unity Wheelchair Controller](https://ocias.com/blog/unity-wheelchair-controller/) assets.
